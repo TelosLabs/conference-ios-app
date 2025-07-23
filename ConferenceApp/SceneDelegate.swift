@@ -1,7 +1,7 @@
 import HotwireNative
 import UIKit
 
-let rootURL = URL(string: "http://localhost:3000/")! // Change to the correct URL
+let rootURL = URL(string: "https://app.railsworld.com/")!
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     var window: UIWindow?
