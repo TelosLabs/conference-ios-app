@@ -56,4 +56,4 @@ Select a simulator or a physical device in Xcode and press `Cmd + R` to run the 
 
 ---
 
-Built with ❤️ using Turbo Native
+Built with ❤️ using Hotwire Native
